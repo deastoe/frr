@@ -530,6 +530,7 @@ end
             "domainname ",
             "dump ",
             "enable ",
+            "fpm ",
             "frr ",
             "hostname ",
             "ip ",
